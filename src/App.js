@@ -17,6 +17,7 @@ class App extends Component {
           
         </p>
         Un autre test
+        <p>Un autre TEST by ADEL</p>
       </div>
     );
   }
